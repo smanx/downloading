@@ -1,6 +1,6 @@
 #!/bin/sh
 # Set the download URL using the environment variable DOWNLOAD_URL
-DOWNLOAD_URL=${DOWNLOAD_URL:-https://test.ustc.edu.cn/backend/garbage.php?ckSize=100}
+DOWNLOAD_URL=${DOWNLOAD_URL:-https://www.apple.com/favicon.ico}
 # Initialize the loop counter
 COUNTER=1
 while true; do
